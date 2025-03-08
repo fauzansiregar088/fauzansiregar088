@@ -31,9 +31,9 @@ Welcome to my GitHub profile! I'm an Information Technology student at **Univers
 - 🔹 Leadership & Public Speaking
 
 ## 📊 GitHub Stats
-![Fauzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FauzanLuthfi&show_icons=true&theme=dark)
+![Fauzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauzansiregar088&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FauzanLuthfi&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzansiregar088&layout=compact&theme=dark)
 
 ---
 
